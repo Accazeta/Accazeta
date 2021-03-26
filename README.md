@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Accazeta
 - 👀 I’m interested in Artificial Intelligence and Computer Vision
 - 🌱 I’m currently learning advanced Python, Bash and Git for IT automation; Basic Front-End Development
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Contact mail -> f.panzeri24 [at] gmail [dot] com
 
 <!---
